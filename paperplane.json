@@ -11,8 +11,7 @@
   "directory": "chars/St",
   "image": "Covers/St.png",
   "pmx": "St. Louis ：Luxurious Wheels1.05.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190117,
@@ -26,8 +25,7 @@
   "directory": "chars/Sunbringer",
   "image": "Covers/Sunbringer.png",
   "pmx": "Sunbringer Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190118,
@@ -41,8 +39,7 @@
   "directory": "chars/Sunna",
   "image": "Covers/Sunna.png",
   "pmx": "Sunnakfc18+.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190119,
@@ -56,8 +53,7 @@
   "directory": "chars/SweetheartBunny",
   "image": "Covers/SweetheartBunny.png",
   "pmx": "SweetheartBunny.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190120,
@@ -71,8 +67,7 @@
   "directory": "chars/Tingyun",
   "image": "Covers/Tingyun.png",
   "pmx": "Tingyun Vr 1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190121,
@@ -86,8 +81,7 @@
   "directory": "chars/UnicornPriestess",
   "image": "Covers/UnicornPriestess.png",
   "pmx": "Unicorn(Priestess) Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190122,
@@ -101,8 +95,7 @@
   "directory": "chars/Velina",
   "image": "Covers/Velina.png",
   "pmx": "Velina Airgid‌(R).pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190123,
@@ -116,8 +109,7 @@
   "directory": "chars/char7",
   "image": "Covers/char7.png",
   "pmx": "武器1.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190124,
@@ -131,8 +123,7 @@
   "directory": "chars/Vodyanitsa",
   "image": "Covers/Vodyanitsa.png",
   "pmx": "Vodyanitsa+IK.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190125,
@@ -146,8 +137,7 @@
   "directory": "chars/Zani",
   "image": "Covers/Zani.png",
   "pmx": "0 WuWa Zani by Animanpower.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190126,
@@ -161,8 +151,7 @@
   "directory": "chars/Yinlin",
   "image": "Covers/Yinlin.png",
   "pmx": "Yinlin R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190127,
@@ -176,8 +165,7 @@
   "directory": "chars/Yujin",
   "image": "Covers/Yujin.png",
   "pmx": "云堇 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 190128,
@@ -191,7 +179,6 @@
   "directory": "chars/Yunli",
   "image": "Covers/Yunli.png",
   "pmx": "Yunli 1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  }
 ]
