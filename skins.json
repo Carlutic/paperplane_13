@@ -11,8 +11,7 @@
   "directory": "chars/Sunna",
   "image": "Covers/Sunna.png",
   "pmx": "千夏kfc16+.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191105,
@@ -26,8 +25,7 @@
   "directory": "chars/Sunna1",
   "image": "Covers/Sunna1.png",
   "pmx": "千夏 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191106,
@@ -41,8 +39,7 @@
   "directory": "chars/Sunna1",
   "image": "Covers/Sunna1.png",
   "pmx": "喇叭.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191107,
@@ -56,8 +53,7 @@
   "directory": "chars/Sunna1",
   "image": "Covers/Sunna1.png",
   "pmx": "手机.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191108,
@@ -71,8 +67,7 @@
   "directory": "chars/Sunna1",
   "image": "Covers/Sunna1.png",
   "pmx": "武器.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191109,
@@ -86,8 +81,7 @@
   "directory": "chars/Sunna1",
   "image": "Covers/Sunna1.png",
   "pmx": "泡泡.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191110,
@@ -101,8 +95,7 @@
   "directory": "chars/Thick",
   "image": "Covers/Thick.png",
   "pmx": "Thick Faruzan.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191111,
@@ -116,8 +109,7 @@
   "directory": "chars/Thick1",
   "image": "Covers/Thick1.png",
   "pmx": "Thick Nangong Yu 3.5.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191112,
@@ -131,8 +123,7 @@
   "directory": "chars/char7",
   "image": "Covers/char7.png",
   "pmx": "武器2.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191113,
@@ -146,8 +137,7 @@
   "directory": "chars/char7",
   "image": "Covers/char7.png",
   "pmx": "维琳娜 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191114,
@@ -161,8 +151,7 @@
   "directory": "chars/Vodyanitsa",
   "image": "Covers/Vodyanitsa.png",
   "pmx": "Vodyanitsa.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191115,
@@ -176,8 +165,7 @@
   "directory": "chars/Vodyanitsa",
   "image": "Covers/Vodyanitsa.png",
   "pmx": "Vodyanitsa_Facial flattening+IK.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191116,
@@ -191,8 +179,7 @@
   "directory": "chars/Vodyanitsa",
   "image": "Covers/Vodyanitsa.png",
   "pmx": "Vodyanitsa_Facial flattening.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  },
  {
   "id": 191117,
@@ -206,7 +193,6 @@
   "directory": "chars/Yujin",
   "image": "Covers/Yujin.png",
   "pmx": "花枪.pmx",
-  "base": "https://carlutic.github.io/paperplane_13/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_13/"
  }
 ]
